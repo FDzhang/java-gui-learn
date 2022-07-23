@@ -27,6 +27,10 @@ public class GridLayoutDemo {
         for (String f : ff) {
             panel2.add(new Button(f));
         }
+        panel2.add(new Button("out size"));
+        panel2.add(new Button("out size"));
+        panel2.add(new Button("out size"));
+        panel2.add(new Button("out size"));
         frame.add(panel2);
 
 
