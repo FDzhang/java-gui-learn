@@ -1,4 +1,4 @@
-package example;
+package example.container;
 
 import javax.swing.*;
 import java.awt.*;
@@ -7,7 +7,7 @@ import java.awt.*;
  * @author : zxq
  * @create : 2022/7/23 0:22
  */
-public class Demo1 {
+public class PanelDemo {
     public static void main(String[] args) {
         // 一个window对象
         // 因为，panel以及其他容器，不能独立存在，必须依附于 Window 而存在
