@@ -8,7 +8,7 @@ import java.awt.event.ActionListener;
  * @author : zxq
  * @create : 2022/7/30 0:09
  */
-public class EventDemo1 {
+public class ListenerDemo1 {
 
     private Frame frame;
 
@@ -40,6 +40,6 @@ public class EventDemo1 {
     }
 
     public static void main(String[] args) {
-        new EventDemo1().init();
+        new ListenerDemo1().init();
     }
 }
